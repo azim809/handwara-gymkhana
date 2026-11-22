@@ -202,7 +202,7 @@ if (backToTop) {
 
 const whatsappButton = document.getElementById("whatsappButton");
 
-const gymWhatsAppNumber = "91XXXXXXXXXX";
+const gymWhatsAppNumber = "918793360059";
 
 const whatsappMessage =
   "Hello Handwara Gymkhana! I would like to know more about your membership plans and timings.";
